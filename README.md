@@ -1,4 +1,7 @@
 <img src="https://i.imgur.com/cwLTOc4.png"/></a>
+
+![badmath](https://img.shields.io/badge/License-MIT-blue)
+
 # Run Buddy, Inc
 
 ## Purpose
